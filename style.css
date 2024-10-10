@@ -1,16 +1,23 @@
 body {
-
+background-color: #eee;
+COLOR: #333;
+font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
 main {
-
+border-image: 2px;solid #eee
+width: 600xp
+margin:-auto ;;;
+paddng 20px
+borden radius 10xp
 }
 
 
 
 
-head {
+head {border: 2px; solid #999;
+    height: 150px;
 
 }
 
@@ -33,5 +40,5 @@ aside {
 
 
 footer{
-    
+
 }
